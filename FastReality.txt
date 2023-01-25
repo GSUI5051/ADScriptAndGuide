@@ -1,0 +1,7 @@
+AntimatterDimensionsAutomatorScriptFormatAABeJzVj9FtwzAMRP89hQbgB49UYmeLriA4aivEkQNZRlCgw0cc0aRgE0b8UQdDqKqwj5ye4TP1J6lfqlG91c6jxzwPKajn0ceSj1D3dyo9vM62fqfxBjGWiUOcp0as0aiZAL5MoymV0aWl5sLlNAO0bkE36AJtuA5MMLMv5DZwxo5oI0aNHzqgVMpssJrxAObBBFPPRL2ShjsIsRo0akxa0cy96n1kFfolHtutfSff77RWbd9fYR72VIve51aThu30bgNILGwwEndOfAutomatorScript
+
+This is my perk farming/fast reality script
+you need passive EP generation for this to work and a tt/h glyph with permanent Black Hole
+recommended glyph setup: 4 power glyphs with dimboost multiplier and buy 10 multiplier, 1 dilation glyph with TT/H
+
+average reality time: ~250ms
