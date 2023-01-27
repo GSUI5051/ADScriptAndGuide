@@ -12,3 +12,8 @@
 Effarig 符文效果：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png)
 
 在被毁灭的现实（Pelle的现实）中完成永恒挑战的顺序：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png)
+
+现实更新攻略：[https://github.com/GSUI5051/ADScriptAndGuide/releases/latest](https://github.com/GSUI5051/ADScriptAndGuide/releases/latest)
+
+攻略的文件名格式如下：FanWuZhiWeiDu-XianShiGengXinGongLve-DiXXBan.pdf
+
