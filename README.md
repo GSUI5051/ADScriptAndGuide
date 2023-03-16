@@ -9,11 +9,13 @@
 
 常驻脚本：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/MainScript.txt](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/MainScript.txt)
 
+修正后的常驻脚本，仅需增加用空间定理购买时间研究和三体研究的代码即可：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Fast%20Roll.txt](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Fast%20Roll.txt)
+
 Effarig 符文效果：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png)
 
 在被毁灭的现实（Pelle的现实）中完成永恒挑战的顺序：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png)
 
-现实更新攻略：[https://github.com/GSUI5051/ADScriptAndGuide/releases/latest](https://github.com/GSUI5051/ADScriptAndGuide/releases/latest)
+现实更新和现实前的增补攻略：[https://github.com/GSUI5051/ADScriptAndGuide/releases/latest](https://github.com/GSUI5051/ADScriptAndGuide/releases/latest)
 
 攻略的文件名格式如下：FanWuZhiWeiDu-XianShiGengXinGongLve-DiXXBan.pdf
 
