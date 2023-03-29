@@ -13,7 +13,7 @@
 
 Effarig 符文效果：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png)
 
-在被毁灭的现实（Pelle的现实）中完成永恒挑战的顺序：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Pelle-Celestial-EC.png)
+在被毁灭的现实（Pelle的现实）中完成永恒挑战的顺序：[https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Cel7%E4%B8%AD%E7%9A%84%E6%B0%B8%E6%81%92%E6%8C%91%E6%88%98%E9%A1%BA%E5%BA%8F%20(pdf.io).png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Cel7%E4%B8%AD%E7%9A%84%E6%B0%B8%E6%81%92%E6%8C%91%E6%88%98%E9%A1%BA%E5%BA%8F%20(pdf.io).png)
 
 现实更新和现实前的增补攻略：[https://github.com/GSUI5051/ADScriptAndGuide/releases/latest](https://github.com/GSUI5051/ADScriptAndGuide/releases/latest)
 
