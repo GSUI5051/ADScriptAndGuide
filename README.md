@@ -19,6 +19,8 @@
 传说中能用到Cel7的脚本,仅需增加用空间定理购买时间研究和三体研究的代码（studies purchase xxx）即可。
 [https://github.com/GSUI5051/ADScriptAndGuide/blob/main/%E6%9F%90%E4%BA%BA%E8%AF%B4%E8%83%BD%E4%BB%8E%E5%A4%B4%E7%94%A8%E5%88%B0%E5%B0%BE%E7%9A%84%E8%84%9A%E6%9C%AC.txt](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/%E6%9F%90%E4%BA%BA%E8%AF%B4%E8%83%BD%E4%BB%8E%E5%A4%B4%E7%94%A8%E5%88%B0%E5%B0%BE%E7%9A%84%E8%84%9A%E6%9C%AC.txt)
 
+反物质维度 Wiki 攻略中的脚本：[https://github.com/GSUI5051/ADScriptAndGuide/tree/main/Scripts](https://github.com/GSUI5051/ADScriptAndGuide/tree/main/Scripts)
+
 Effarig 符文效果：
 [https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png](https://github.com/GSUI5051/ADScriptAndGuide/blob/main/Effarig%20Glyph%20Effects.png)
 
