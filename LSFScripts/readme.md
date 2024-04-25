@@ -1,7 +1,7 @@
 # 说明/Info
-久经考验的反物质维度自动机脚本
+久经考验的反物质维度自动机脚本，总计 9 个常量和 21,999/60,000 字符（我是故意的）。
 
-Reality-proven automator scripts for Antimatter Dimensions
+Reality-proven automator scripts for Antimatter Dimensions, with 9 constant and 21,999/60,000 characters (I deliberately made it).
 
 ### NMX-O.O
 新世界的开端，冒险的开始
