@@ -3,7 +3,7 @@
 
 Reality-proven automator scripts for Antimatter Dimensions
 
-#### NMX-O.O
+### NMX-O.O
 新世界的开端，冒险的开始
 
 The entrance of New World, the beginning of adventure.
@@ -44,7 +44,7 @@ Click buy max TT if no TTS
 
 Hold R or use R+H trick if no ACHNR
 
-#### LSF-ATFG
+### LSF-ATFG
 你认为我很脆弱？我，反脆弱。
 
 Do you think I'm fragile? I AM ANTIFRAGILE.
@@ -74,7 +74,7 @@ I don't [forgive/follow/spare] any Celestial, cuz I AM THE [UNFORGIVEN/REBEL/WAR
 
 Requirement: 1e18 RM in Teresa's Container.
 
-#### LSF-GLIF
+### LSF-GLIF
 基于 LSF-UFGV, 刷符文专用。
 
 Based on LSF-UFGV, specialized for glyph farming.
@@ -91,7 +91,7 @@ Glyph filter setting: Specified Effects (Mode 4)
 
 NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play". You can stick to LSF-NORM for glyph farming.
 
-#### LSF-4FX
+### LSF-4FX
 刷 4 词条符文专用。
 
 Specialized for 4-effect glyph farming
@@ -116,12 +116,12 @@ Effarig: Game Speed Pow 10, others 9. Threshold=rarity%+38
 
 Numbers in Line 155, 170, 171 may subject to change as you progress thru the game
 
-#### LSF-NORM
+### LSF-NORM
 已被 LSF-ATFG 和 LSF-UFGV 取代
 
 Replaced by LSF-ATFG and LSF-UFGV
 
-#### 特别鸣谢/Special Thanks
+### 特别鸣谢/Special Thanks
 灵感来源于 Ninjatsu 的脚本
 
 Inspired by Ninjatsu Scripts
