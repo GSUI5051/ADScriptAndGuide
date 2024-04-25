@@ -104,13 +104,13 @@ Use condition: Glyph level>=3000 ~ Effarig Level 10 in Ra or glyph level>=10000
 
 Glyph filter setting: Effect Score (Mode 5)
 
-基本符文：所有词条10分，阈值=稀有度+40
+基本符文：所有词条 10 分，阈值=稀有度百分比+40
 
 5 Basic: All effect 10. Threshold=rarity%+40
 
-鹿颈长：游戏速度11分，其余9分，阈值=稀有度+38
+鹿颈长：游戏速度 11 分，其余 9 分，阈值=稀有度百分比+38
 
-Effarig: Game Speed Pow 10, others 9. Threshold=rarity%+38
+Effarig: Game Speed Pow 11, others 9. Threshold=rarity%+38
 
 155, 170, 171 行中的数值需要随进度改变
 
