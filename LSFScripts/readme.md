@@ -24,9 +24,9 @@ Minimum Perks: DILR, ECR (9 Realities)
 
 Optional Perks: TTS, ACHNR
 
-符文：复制速度（RepSpd x），永恒点数倍增（EPx），稀有度大于 20%
+符文：复制速度（RepSpd x），永恒点数倍增（EPx），双力量（一个力量可以换成膨胀时间倍增），稀有度大于 20%
 
-GLIF: RepSpd x, EPx, Rarity>20%
+GLIF: RepSpd x, EPx, 2 Power (a Power can be replaced to DTx), Rarity>20%
 
 可选符文：膨胀时间倍增（DTx），反物质维度倍增（AD Mult）以更快完成永恒挑战 10
 
