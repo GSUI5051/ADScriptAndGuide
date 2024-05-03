@@ -26,13 +26,13 @@ Optional Perks: TTS, ACHNR
 
 符文：复制速度（RepSpd x），永恒点数倍增（EPx），双力量（一个力量可以换成膨胀时间倍增），稀有度大于 20%
 
-GLIF: RepSpd x, EPx, 2 Power (a Power can be replaced to DTx), Rarity>20%
+GLIFs: RepSpd x, EPx, 2 Power (a Power can be replaced to DTx), Rarity>20%
 
 可选符文：膨胀时间倍增（DTx），反物质维度倍增（AD Mult）以更快完成永恒挑战 10
 
-Optional GLIF: DTx, AD mult for EC10
+Optional GLIFs: DTx, AD mult for EC10
 
-永恒挑战8 策略：全买第一无限维度，9%概率（chance），2分钟拿到尽可能多的复制器星系
+永恒挑战 8 策略：全买第一无限维度，9% 复制概率（chance），2分钟拿到尽可能多的复制器星系
 
 EC8 Strat: All ID1, 9%, max RG 2 min
 
@@ -51,7 +51,7 @@ Do you think I'm fragile? I AM ANTIFRAGILE.
 
 天神已至，该用它了。
 
-Celestials is coming down, you can use it.
+Celestials are coming down, you can use it.
 
 要求：50%+ 黑洞，所有的现实升级和 Perk 节点
 
@@ -87,18 +87,18 @@ Requirement: Glyph filter Unlocked.
 
 Glyph filter setting: Specified Effects (Mode 4)
 
-注意事项：你需要随进度改变该脚本中的 filter score>xx 和 pending Glyph level>=xx 的数值，符文筛选中的设置也要进行对应的改变，以防结算顺序问题造成无法刷到你想要的符文。你也可以继续使用 LSF-NORM 刷符文。
+注意事项：你需要随进度改变该脚本中的 filter score>xx 和 pending Glyph level>=xx 的数值，符文筛选中的设置也要进行对应的改变，以防结算顺序问题造成无法刷到你想要的符文。欲知详情，请阅读自带帮助中的“高级符文机制（Advanced Glyph Mechanics）”。你也可以继续使用 LSF-NORM 刷符文。
 
-NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play". You can stick to LSF-NORM for glyph farming.
+NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play" to learn details in glyph filtering. You can stick to LSF-NORM for glyph farming.
 
 ### LSF-4FX
 刷 4 词条符文专用。
 
 Specialized for 4-effect glyph farming
 
-使用条件：符文等级 3000 ~ Effarig 记忆等级为 10 或稳拿 10000 级符文
+使用条件：符文等级 3000 （基于实战经验，推荐符文等级 4000）~ Effarig 记忆等级为 10 或稳拿 10000 级符文
  
-Use condition: Glyph level>=3000 ~ Effarig Level 10 in Ra or glyph level>=10000
+Use condition: Glyph level>=3000 (>=4000 is Recommended based on actual experience) ~ Effarig Level 10 in Ra or glyph level>=10000
 
 符文筛选设置：词条分数（第五个）模式
 
@@ -121,7 +121,7 @@ Numbers in Line 155, 170, 171 may subject to change as you progress thru the gam
 
 Replaced by LSF-ATFG and LSF-UFGV
 
-### 特别鸣谢/Special Thanks
+# 特别鸣谢/Special Thanks
 灵感来源于 Ninjatsu 的脚本
 
 Inspired by Ninjatsu Scripts
