@@ -89,7 +89,7 @@ Glyph filter setting: Specified Effects (Mode 4)
 
 注意事项：你需要随进度改变该脚本中的 filter score>xx 和 pending Glyph level>=xx 的数值，符文筛选中的设置也要进行对应的改变，以防结算顺序问题造成无法刷到你想要的符文。欲知详情，请阅读自带帮助中的“高级符文机制（Advanced Glyph Mechanics）”。你也可以继续使用 LSF-NORM 刷符文。
 
-NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play" to learn details in glyph filtering. You can stick to LSF-NORM for glyph farming.
+NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play" to learn details in glyph filtering. You can stick to LSF-UFGV for glyph farming.
 
 ### LSF-4FX
 刷 4 词条符文专用。
