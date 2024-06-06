@@ -1,5 +1,5 @@
 # 说明/Info
-久经考验的反物质维度自动机脚本，总计 9 个常量和 21,999/60,000 字符（我是故意的）。
+久经考验的反物质维度自动机脚本，总计 10 个常量和 23,000/60,000 字符（我是故意的）。
 
 Reality-proven automator scripts for Antimatter Dimensions, with 9 constant and 21,999/60,000 characters (I deliberately made it).
 
@@ -26,15 +26,15 @@ Optional Perks: TTS, ACHNR
 
 符文：复制速度（RepSpd x），永恒点数倍增（EPx），双力量（一个力量可以换成膨胀时间倍增），稀有度大于 20%
 
-GLIFs: RepSpd x, EPx, 2 Power (a Power can be replaced to DTx), Rarity>20%
+GLIF: RepSpd x, EPx, 2 Power (a Power can be replaced to DTx), Rarity>20%
 
-可选符文：膨胀时间倍增（DTx），反物质维度倍增（AD Mult）以更快完成永恒挑战 10
+可选符文：膨胀时间倍增（DTx），反物质维度倍增（AD Mult）以更快完成永恒挑战 10 和永恒挑战 7
 
-Optional GLIFs: DTx, AD mult for EC10
+Optional GLIF: DTx, AD mult for EC10 and EC7
 
-永恒挑战 8 策略：全买第一无限维度，9% 复制概率（chance），2分钟拿到尽可能多的复制器星系
+永恒挑战8 策略：全买第一无限维度，9%概率（chance），调整后两个复制器升级，用 2 分钟左右的时间拿到尽可能多的复制器星系
 
-EC8 Strat: All ID1, 9%, max RG 2 min
+EC8 Strat: All ID1, 9%, max RG 2 min, Adjust Interval and Max RG Upgrade to make you can get max RG in approx. 2 min
 
 如果没有 TTS, 需要点击“购买最大数量时间定理（Buy Max TT）”
 
@@ -51,7 +51,7 @@ Do you think I'm fragile? I AM ANTIFRAGILE.
 
 天神已至，该用它了。
 
-Celestials are coming down, you can use it.
+Celestials is coming down, you can use it.
 
 要求：50%+ 黑洞，所有的现实升级和 Perk 节点
 
@@ -74,6 +74,30 @@ I don't [forgive/follow/spare] any Celestial, cuz I AM THE [UNFORGIVEN/REBEL/WAR
 
 Requirement: 1e18 RM in Teresa's Container.
 
+Cel4 中的特殊设置：
+
+Special Config for Cel4:
+
+前往“更改常量（Modify defined constants）”，按需修改常量以完成薇成就。
+
+Go to "Modify defined constants" to modify constants for V-Achievements.
+
+正常游玩：CTRL = 0
+
+Normal: CTRL = 0
+
+少年郎：CTRL = -1
+
+Young Boy: CTRL = -1
+
+7 命贵：CTRL = 1
+
+7 Deadly Matters: CTRL = 1
+
+盗物空间：CTRL = 2
+
+Matterception: CTRL = 2
+
 ### LSF-GLIF
 基于 LSF-UFGV, 刷符文专用。
 
@@ -87,18 +111,22 @@ Requirement: Glyph filter Unlocked.
 
 Glyph filter setting: Specified Effects (Mode 4)
 
-注意事项：你需要随进度改变该脚本中的 filter score>xx 和 pending Glyph level>=xx 的数值，符文筛选中的设置也要进行对应的改变，以防结算顺序问题造成无法刷到你想要的符文。欲知详情，请阅读自带帮助中的“高级符文机制（Advanced Glyph Mechanics）”。你也可以继续使用 LSF-NORM 刷符文。
+注意事项：你需要随进度改变该脚本中的 filter score>xx 和 pending Glyph level>=xx 的数值，符文筛选中的设置也要进行对应的改变，以防结算顺序问题造成无法刷到你想要的符文。你也可以继续使用 LSF-NORM 刷符文。
 
-NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play" to learn details in glyph filtering. You can stick to LSF-UFGV for glyph farming.
+NOTE: Modify filter score>=xx & pending Glyph level>=xx according to your progress. Related settings in glyph filter also need to be modified. See "Advanced Glyph Mechanics" in "How to Play". You can stick to LSF-NORM for glyph farming.
+
+不要启用回收按钮的功能！
+
+DON'T ENABLE the recycle button!!!
 
 ### LSF-4FX
 刷 4 词条符文专用。
 
 Specialized for 4-effect glyph farming
 
-使用条件：符文等级 3000 （基于实战经验，推荐符文等级 4000）~ Effarig 记忆等级为 10 或稳拿 10000 级符文
+使用条件：符文等级 3000 ~ Effarig 记忆等级为 10 或稳拿 10000 级符文
  
-Use condition: Glyph level>=3000 (>=4000 is Recommended based on actual experience) ~ Effarig Level 10 in Ra or glyph level>=10000
+Use condition: Glyph level>=3000 ~ Effarig Level 10 in Ra or glyph level>=10000
 
 符文筛选设置：词条分数（第五个）模式
 
@@ -112,16 +140,20 @@ Glyph filter setting: Effect Score (Mode 5)
 
 Effarig: Game Speed Pow 11, others 9. Threshold=rarity%+38
 
-155, 170, 171 行中的数值需要随进度改变
+179, 184, 187 行中的数值需要随进度改变
 
-Numbers in Line 155, 170, 171 may subject to change as you progress thru the game
+Numbers in Line 179, 184, 187 may subject to change as you progress thru the game
+
+不要启用回收按钮的功能！
+
+DON'T ENABLE the recycle button!!!
 
 ### LSF-NORM
 已被 LSF-ATFG 和 LSF-UFGV 取代
 
 Replaced by LSF-ATFG and LSF-UFGV
 
-# 特别鸣谢/Special Thanks
+### 特别鸣谢/Special Thanks
 灵感来源于 Ninjatsu 的脚本
 
 Inspired by Ninjatsu Scripts
